@@ -1,0 +1,10 @@
+/* src/index.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add your custom CSS below these lines */
+body {
+  font-family: 'Inter', sans-serif; /* Ensure Inter font is used if desired */
+}
